@@ -71,7 +71,7 @@
 
 ## 🌐 Connect with Me
 
-**Portfolio:** https://your-portfolio-link.com
+**Portfolio:** [https://your-portfolio-link.com](https://www.naveenkumarp.me/)
 
 </td>
 
