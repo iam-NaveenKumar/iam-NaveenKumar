@@ -1,7 +1,7 @@
 <table>
 <tr>
 
-<td width="40%" align="center">
+<td width="20%" align="center">
 
                                                                                                    
                                                                                                    
@@ -59,7 +59,7 @@
 
 </td>
 
-<td width="60%" valign="top">
+<td width="80%" valign="top">
 
 # Hi, I'm Naveen Kumar 👋
 
